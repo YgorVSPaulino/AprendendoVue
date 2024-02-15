@@ -3,8 +3,8 @@
 </script>
 
 <template>
- <div>
-  <h1>Home View</h1>
+ <div class="home">
+  <button>Add to Cart</button>
  </div>
 </template>
 
